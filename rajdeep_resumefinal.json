@@ -1,0 +1,64 @@
+{
+	"basics": {
+		"name": "Rajdeep Chattopadhyay",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1054@iiitkota.ac.in",
+		"phone": "7569816938",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I am a Undergraduate Computer Science student interested in competitive programming and database systems",
+		"location": {
+			"address": "#804-H,The Hermitage Park,Dhakoli",
+			"postalCode": "160104",
+			"city": "Zirakpur",
+			"countryCode": "India",
+			"region": "Punjab"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "rajdeepawesome-coder",
+				"url": "https://github.com/rajdeepawesome-coder"
+			},
+			{
+				"network": "linkedin",
+				"username": "Rajdeep Chattopadhyay",
+				"url": "https://www.linkedin.com/in/rajdeep-chattopadhyay-387794217/"
+			},
+			{
+				"network": "Instagram",
+				"username": "rajdeep_awsm",
+				"url": "https://www.instagram.com/rajdeep_awsm/"
+			}
+		]
+	},
+
+	"volunteer": [{
+		"organization": "Entrepreneurship Development Cell,MNIT Jaipur",
+		"position": "Social Media Head ",
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-04-08 //Date",
+		"endDate": "----",
+		"gpa": "8.01",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS","C/C++", "MySQL","MicrosoftSQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football", "Badminton"]
+	}],
+	"references": []
+}
