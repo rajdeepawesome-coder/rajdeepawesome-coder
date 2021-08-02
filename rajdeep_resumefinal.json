@@ -2,11 +2,11 @@
 	"basics": {
 		"name": "Rajdeep Chattopadhyay",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "C:\Users\Rajdeep\Downloads\photo.jpeg",
 		"email": "2019kucp1054@iiitkota.ac.in",
 		"phone": "7569816938",
 		"website": "---Enter Link of website(if any) ---",
-		"summary": "I am a Undergraduate Computer Science student interested in competitive programming and database systems",
+		"summary": "I am a Undergraduate student persuing Computer Science from Indian Institute of Information Technology,Kota .I have a keen interest in competitive programming and database systems",
 		"location": {
 			"address": "#804-H,The Hermitage Park,Dhakoli",
 			"postalCode": "160104",
@@ -14,11 +14,7 @@
 			"countryCode": "India",
 			"region": "Punjab"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
+		"profiles": [
 			{
 				"network": "Github",
 				"username": "rajdeepawesome-coder",
