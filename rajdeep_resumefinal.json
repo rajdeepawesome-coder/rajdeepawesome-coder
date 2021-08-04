@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Punjab"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "rajdeepawesome-coder",
 				"url": "https://github.com/rajdeepawesome-coder"
@@ -34,7 +33,7 @@
 
 	"volunteer": [{
 		"organization": "Entrepreneurship Development Cell,MNIT Jaipur",
-		"position": "Social Media Head ",
+		"position": "Social Media Head "
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
@@ -49,7 +48,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS","C/C++", "MySQL","MicrosoftSQL"]
+		"keywords": ["HTML", "CSS", "C/C++", "MySQL", "MicrosoftSQL"]
 	}],
 	"interests": [{
 		"name": "Sports",
