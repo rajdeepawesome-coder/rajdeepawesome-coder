@@ -5,7 +5,6 @@
 		"picture": "https://i.imgur.com/NQr3Zur.jpg",
 		"email": "2019kucp1054@iiitkota.ac.in",
 		"phone": "7569816938",
-		"website": "---Enter Link of website(if any) ---",
 		"summary": "I am a Undergraduate student persuing Computer Science from Indian Institute of Information Technology,Kota .I have a keen interest in competitive programming and database systems",
 		"location": {
 			"address": "#804-H,The Hermitage Park,Dhakoli",
@@ -55,6 +54,5 @@
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Football", "Badminton"]
-	}],
-	"references": []
+	}]
 }
