@@ -11,7 +11,7 @@
 			"postalCode": "160104",
 			"city": "Chandigarh",
 			"countryCode": "India",
-			"region": "Chandigarh"
+			"region": "Punjab"
 		},
 		"profiles": [{
 				"network": "Github",
@@ -53,6 +53,5 @@
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Football", "Badminton"]
-
 	}]
 }
