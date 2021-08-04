@@ -48,13 +48,13 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "C/C++", "MySQL", "Microsoft SQL","Javascript"]
+		"keywords": ["HTML", "CSS", "C/C++", "MySQL", "Microsoft SQL", "Javascript"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Football", "Badminton"]
-		"name": "Arts",
-		"keywords": ["Sketching"]
-		
+		"keywords": ["Football", "Badminton"],
+		"names": "Arts",
+		"keyword": ["Sketching"]
+
 	}]
 }
