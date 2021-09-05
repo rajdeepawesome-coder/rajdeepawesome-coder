@@ -33,14 +33,14 @@
 
 	"volunteer": [{
 		"organization": "Entrepreneurship Development Cell,MNIT Jaipur",
-		"position": "Edcell Social Media Head "
+		"position": "Edcell Social Media Head(3rd Year) "
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2019-04-08 ",
-		"endDate": "----",
+		"endDate": "",
 		"gpa": "8.01",
 		"courses": [
 			"Computer Science & Engineering"
@@ -48,7 +48,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "C/C++", "MySQL", "MS SQL Server", "SQL"]
+		"keywords": ["HTML", "CSS","Javascript","C++", "MySQL", "MS SQL Server", "SQL"]
 	}],
 	"interests": [{
 		"name": "Sports",
